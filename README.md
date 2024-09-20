@@ -1,4 +1,4 @@
-# Welcome to Peyjee's GitHub Profile! 👋
+# Welcome to Peyjee's GitHub Profile! 👋（如果有工作机会请直接联系）
 
 Hi! I’m Peyjee, a dedicated researcher focusing on **RF and Microwave** engineering, particularly in **antenna design**. I'm also passionate about learning **Python** and have a growing interest in **machine learning** and **autonomous driving**. On this profile, you’ll find a variety of my projects that reflect my journey in tech and engineering. Here's more about me:
 
